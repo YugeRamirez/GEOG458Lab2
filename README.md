@@ -17,7 +17,7 @@ While this analysis provides some interesting insights, there are several ways i
 - Include more search terms to gather a wider range of videos.
 - Analyze the comments on the videos to gain more insights into viewers' opinions.
 - Consider other landmarks in Seattle or even expanding the research to include landmarks in other cities could provide a more comprehensive understanding of how landmarks are perceived and discussed online.
-## CSV Download
+## CSV Download([download this](assets/dataCSV.zip))
 <a href="assets/SpaceNeedle.csv" download="SpaceNeedle.csv">Space Needle</a>
 <a href="assets/PikePlaceMarket.csv" download="PikePlaceMarket.csv">PikePlaceMarket</a>
 <a href="assets/GreatWheelSeattle.csv" download="GreatWheelSeattle.csv">GreatWheelSeattle</a>
