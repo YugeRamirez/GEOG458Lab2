@@ -19,6 +19,5 @@ While this analysis provides some interesting insights, there are several ways i
 - Consider other landmarks in Seattle or even expanding the research to include landmarks in other cities could provide a more comprehensive understanding of how landmarks are perceived and discussed online.
 ## CSV Download
 <a href="assets/SpaceNeedle.csv" download="SpaceNeedle.csv">Space Needle</a>
-![SpaceNeedle](assets/SpaceNeedle.csv)
-![PikePlaceMarket](assets/PikePlaceMarket.csv)
-![GreatWheelSeattle](assets/GreatWheelSeattle.csv)
+<a href="assets/PikePlaceMarket.csv" download="PikePlaceMarket.csv">PikePlaceMarket</a>
+<a href="assets/GreatWheelSeattle.csv" download="GreatWheelSeattle.csv">GreatWheelSeattle</a>
