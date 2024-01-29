@@ -8,9 +8,9 @@ Personally, I've never visited any of these landmarks since I came here, and fro
 One reason for these patterns is that I assume most of the videos on YouTube are made by visitors, instead of local residents. As a result, the word cloud is predictable as it has similar words compared to the data we can acquire online.
 
 ## Word Cloud Pics
-!img/SpaceNeedle.png
-!img/PikePlaceMarket.png
-!img/GreatWheelSeattle.png
+![alt text](SpaceNeedle.png "SpaceNeedle")
+![alt text](PikePlaceMarket.png "PikePlaceMarket")
+![alt text](GreatWheelSeattle.png "GreatWheelSeattle")
 ## Suggestions for Future Research
 While this analysis provides some interesting insights, there are several ways it could be improved in the future:
 - Collect data over a longer period of time to capture changes in perceptions.
