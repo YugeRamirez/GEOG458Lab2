@@ -8,12 +8,16 @@ Personally, I've never visited any of these landmarks since I came here, and fro
 One reason for these patterns is that I assume most of the videos on YouTube are made by visitors, instead of local residents. As a result, the word cloud is predictable as it has similar words compared to the data we can acquire online.
 
 ## Word Cloud Pics
-![alt text](img/SpaceNeedle.png "SpaceNeedle")
-![alt text](img/PikePlaceMarket.png "PikePlaceMarket")
-![alt text](img/GreatWheelSeattle.png "GreatWheelSeattle")
+![SpaceNeedle](img/SpaceNeedle.png "SpaceNeedle")
+![PikePlaceMarket](img/PikePlaceMarket.png "PikePlaceMarket")
+![GreatWheelSeattle](img/GreatWheelSeattle.png "GreatWheelSeattle")
 ## Suggestions for Future Research
 While this analysis provides some interesting insights, there are several ways it could be improved in the future:
 - Collect data over a longer period of time to capture changes in perceptions.
 - Include more search terms to gather a wider range of videos.
 - Analyze the comments on the videos to gain more insights into viewers' opinions.
 - Consider other landmarks in Seattle or even expanding the research to include landmarks in other cities could provide a more comprehensive understanding of how landmarks are perceived and discussed online.
+## CSV Download
+![SpaceNeedle](assets/SpaceNeedle.csv)
+![PikePlaceMarket](assets/PikePlaceMarket.csv)
+![GreatWheelSeattle](assets/GreatWheelSeattle.csv)
